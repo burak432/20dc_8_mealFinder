@@ -3,5 +3,5 @@
 
 [![demo][1]][2]
 
-[1]:  https://github.com/burak432/20dc_8_mealFinder/blob/main/screenshot.jpg
+[1]:  https://github.com/burak432/20dc_8_mealFinder/blob/main/screenshot.JPG
 [2]:  https://burak432.github.io/20dc_8_mealFinder/ "Redirect to demo"
